@@ -7,5 +7,5 @@ def subtract(a, b):
     return a-b
 
 
-def hello():
-    print("hello")
+def multi(a, b):
+    return a*b
