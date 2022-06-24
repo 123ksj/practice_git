@@ -1,2 +1,2 @@
 # git practice
-print("hello python")
+print("Hello Python")
